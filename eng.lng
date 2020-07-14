@@ -1,0 +1,36 @@
+You are in a maze in total darkness. Try to find exit, and also find the true treasure. But watch out, a variety of traps await you here.
+The options are ({n}) north, ({w}) west, ({s}) south, ({e}) east or ({q}) exit.
+To change the control keys and language, enter "conf".
+In which direction are you heading?
+You took a step west ...
+You took a step north ...
+You took a step east ...
+You took a step south ...
+Goodbye.
+Input Error
+but here is the wall.
+and found a way out of the maze.
+You have found the treasure and now you can go to the exit to check it.
+Your bag already has treasure. Come back for it later.
+A trap with a crossbow in the wall went off. You are seriously injured. And stay in place.
+You fell into the trap and remain in place.
+and fell into the trap pit number 1.
+You have found a way out of pit trap No. 1.
+and fell into the trap pit number 2.
+You have found a way out of pit trap No. 2.
+and fell into the pit trap number 3.
+You have found a way out of pit trap No. 3.
+and fell into the trap pit number 4.
+You have found a way out of pit trap No. 4.
+You have found the torch and the next three turns you can see what's around you.
+You already have a torch. Come back for it later.
+Congratulations! You won! You have found a real treasure!
+You have found a fake treasure. Return to the maze and continue your search.
+You have no treasure! Return to the maze and continue your search.
+Enter the key to move west: 
+Enter the key to move north: 
+Enter the key to move east: 
+Enter the key to move south: 
+Enter the key to exit the game: 
+Choose a language
+Possible options are English (eng) / French (fr) / Russian (rus):
